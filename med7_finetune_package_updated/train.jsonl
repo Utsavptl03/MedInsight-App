@@ -1,0 +1,275 @@
+{"text": "START METFORMIN 500 mg TWICE DAILY.", "entities": [[6, 15, "DRUG"], [16, 22, "STRENGTH"], [23, 34, "FREQUENCY"]]}
+{"text": "The patient receives Levothyroxine 500 mg once weekly.", "entities": [[21, 34, "DRUG"], [35, 41, "STRENGTH"], [42, 53, "FREQUENCY"]]}
+{"text": "Noor Al-Sayed lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Rosuvastatin 1 g once daily.", "entities": [[122, 134, "DRUG"], [135, 138, "STRENGTH"], [139, 149, "FREQUENCY"]]}
+{"text": "The patient, Henry Cole, moved to 901 West Pine Street, Buffalo, NY 14201. Phone: 212-555-0199.", "entities": []}
+{"text": "Caregiver Emily Reynolds called from 716-555-0107 regarding transportation from 19 Cedar Lane, Austin, TX 78701.", "entities": []}
+{"text": "Use 1 puff of Doxycycline 75 mg injection by mouth once weekly until follow-up.", "entities": [[4, 10, "DOSAGE"], [14, 25, "DRUG"], [26, 31, "STRENGTH"], [32, 41, "FORM"], [42, 50, "ROUTE"], [51, 62, "FREQUENCY"], [63, 78, "DURATION"]]}
+{"text": "Give one capsule of Amlodipine 5 mg tablet orally every evening for 5 days.", "entities": [[5, 16, "DOSAGE"], [20, 30, "DRUG"], [31, 35, "STRENGTH"], [36, 42, "FORM"], [43, 49, "ROUTE"], [50, 63, "FREQUENCY"], [64, 74, "DURATION"]]}
+{"text": "Marcus Bennett lives at 440 East 72nd Street, Apt 9A, New York, NY 10021 and can be reached at 646-555-0109. The medication plan is Pantoprazole 2.5 mg twice daily.", "entities": [[132, 144, "DRUG"], [145, 151, "STRENGTH"], [152, 163, "FREQUENCY"]]}
+{"text": "Use one tablet of Gabapentin 250 mg capsule intravenously with meals for 7 days.", "entities": [[4, 14, "DOSAGE"], [18, 28, "DRUG"], [29, 35, "STRENGTH"], [36, 43, "FORM"], [44, 57, "ROUTE"], [58, 68, "FREQUENCY"], [69, 79, "DURATION"]]}
+{"text": "Give one tablet of Ibuprofen 75 mg tablet orally before meals for 5 days.", "entities": [[5, 15, "DOSAGE"], [19, 28, "DRUG"], [29, 34, "STRENGTH"], [35, 41, "FORM"], [42, 48, "ROUTE"], [49, 61, "FREQUENCY"], [62, 72, "DURATION"]]}
+{"text": "Give two tablets of Benadryl 50 mg injection by mouth once weekly until follow-up.", "entities": [[5, 16, "DOSAGE"], [20, 28, "DRUG"], [29, 34, "STRENGTH"], [35, 44, "FORM"], [45, 53, "ROUTE"], [54, 65, "FREQUENCY"], [66, 81, "DURATION"]]}
+{"text": "Calvin Brooks lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 631-555-0142. The medication plan is Losartan 5 mg three times daily.", "entities": [[120, 128, "DRUG"], [129, 133, "STRENGTH"], [134, 151, "FREQUENCY"]]}
+{"text": "Use 20 units of Clopidogrel 100 mg tablet orally before meals for 5 days.", "entities": [[4, 12, "DOSAGE"], [16, 27, "DRUG"], [28, 34, "STRENGTH"], [35, 41, "FORM"], [42, 48, "ROUTE"], [49, 61, "FREQUENCY"], [62, 72, "DURATION"]]}
+{"text": "Insulin glargine 10 units subcutaneously nightly.", "entities": [[0, 16, "DRUG"], [17, 25, "DOSAGE"], [26, 40, "ROUTE"], [41, 48, "FREQUENCY"]]}
+{"text": "Caregiver Marcus Bennett called from 716-555-0107 regarding transportation from 25 Harbor Road, Stony Brook, NY 11790.", "entities": []}
+{"text": "Naomi Okafor lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Jardiance 40 mg every 8 hours.", "entities": [[121, 130, "DRUG"], [131, 136, "STRENGTH"], [137, 150, "FREQUENCY"]]}
+{"text": "Use one capsule of Albuterol 40 mg cream topically every 12 hours for 14 days.", "entities": [[4, 15, "DOSAGE"], [19, 28, "DRUG"], [29, 34, "STRENGTH"], [35, 40, "FORM"], [41, 50, "ROUTE"], [51, 65, "FREQUENCY"], [66, 77, "DURATION"]]}
+{"text": "Current medications: Eliquis 5 mg twice daily; Jardiance 10 mg once daily.", "entities": [[21, 28, "DRUG"], [29, 33, "STRENGTH"], [34, 45, "FREQUENCY"], [47, 56, "DRUG"], [57, 62, "STRENGTH"], [63, 73, "FREQUENCY"]]}
+{"text": "Emergency contact is Sofia Delgado, residing at 25 Harbor Road, Stony Brook, NY 11790, telephone 212-555-0199.", "entities": []}
+{"text": "Current medications: Lisinopril 10 mg every morning; Atorvastatin 20 mg nightly.", "entities": [[21, 31, "DRUG"], [32, 37, "STRENGTH"], [38, 51, "FREQUENCY"], [53, 65, "DRUG"], [66, 71, "STRENGTH"], [72, 79, "FREQUENCY"]]}
+{"text": "Her husband organizes her medications and calls the pharmacy when needed.", "entities": []}
+{"text": "Current treatment includes Furosemide 10 mg once weekly.", "entities": [[27, 37, "DRUG"], [38, 43, "STRENGTH"], [44, 55, "FREQUENCY"]]}
+{"text": "Caregiver Naomi Okafor called from 716-555-0107 regarding transportation from 901 West Pine Street, Buffalo, NY 14201.", "entities": []}
+{"text": "Continue Gabapentin 10 mg once weekly.", "entities": [[9, 19, "DRUG"], [20, 25, "STRENGTH"], [26, 37, "FREQUENCY"]]}
+{"text": "Give 2 puffs of Warfarin 2.5 mg injection by mouth every morning until follow-up.", "entities": [[5, 12, "DOSAGE"], [16, 24, "DRUG"], [25, 31, "STRENGTH"], [32, 41, "FORM"], [42, 50, "ROUTE"], [51, 64, "FREQUENCY"], [65, 80, "DURATION"]]}
+{"text": "Current medications: Apixaban 5 mg twice daily; Omeprazole 20 mg every morning.", "entities": [[21, 29, "DRUG"], [30, 34, "STRENGTH"], [35, 46, "FREQUENCY"], [48, 58, "DRUG"], [59, 64, "STRENGTH"], [65, 78, "FREQUENCY"]]}
+{"text": "Emergency contact is Mei-Ling Chen, residing at 19 Cedar Lane, Austin, TX 78701, telephone 716-555-0107.", "entities": []}
+{"text": "Insulin glargine 10 units subcutaneously nightly.", "entities": [[0, 16, "DRUG"], [17, 25, "DOSAGE"], [26, 40, "ROUTE"], [41, 48, "FREQUENCY"]]}
+{"text": "The patient receives Clopidogrel 2.5 mg every 8 hours.", "entities": [[21, 32, "DRUG"], [33, 39, "STRENGTH"], [40, 53, "FREQUENCY"]]}
+{"text": "Give 10 mL of Doxycycline 2.5 mg injection by mouth every morning until follow-up.", "entities": [[5, 10, "DOSAGE"], [14, 25, "DRUG"], [26, 32, "STRENGTH"], [33, 42, "FORM"], [43, 51, "ROUTE"], [52, 65, "FREQUENCY"], [66, 81, "DURATION"]]}
+{"text": "Emily Reynolds remains on Rosuvastatin 500 mg once weekly.", "entities": [[26, 38, "DRUG"], [39, 45, "STRENGTH"], [46, 57, "FREQUENCY"]]}
+{"text": "Henry Cole lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Furosemide 40 mg every 8 hours.", "entities": [[119, 129, "DRUG"], [130, 135, "STRENGTH"], [136, 149, "FREQUENCY"]]}
+{"text": "Caregiver Naomi Okafor called from 716-555-0107 regarding transportation from 901 West Pine Street, Buffalo, NY 14201.", "entities": []}
+{"text": "Caregiver Naomi Okafor called from 212-555-0199 regarding transportation from 901 West Pine Street, Buffalo, NY 14201.", "entities": []}
+{"text": "Luis Martinez takes Ceftriaxone 10 mg once weekly.", "entities": [[20, 31, "DRUG"], [32, 37, "STRENGTH"], [38, 49, "FREQUENCY"]]}
+{"text": "George Patel lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Amoxicillin 40 mg every 8 hours.", "entities": [[121, 132, "DRUG"], [133, 138, "STRENGTH"], [139, 152, "FREQUENCY"]]}
+{"text": "Give 10 units of Clopidogrel 5 mg tablet orally every evening for 5 days.", "entities": [[5, 13, "DOSAGE"], [17, 28, "DRUG"], [29, 33, "STRENGTH"], [34, 40, "FORM"], [41, 47, "ROUTE"], [48, 61, "FREQUENCY"], [62, 72, "DURATION"]]}
+{"text": "Use 2 puffs of Amlodipine 50 mg inhaler inhaled as needed for 30 days.", "entities": [[4, 11, "DOSAGE"], [15, 25, "DRUG"], [26, 31, "STRENGTH"], [32, 39, "FORM"], [40, 47, "ROUTE"], [48, 57, "FREQUENCY"], [58, 69, "DURATION"]]}
+{"text": "Naomi Okafor remains on Aspirin 2.5 mg once daily.", "entities": [[24, 31, "DRUG"], [32, 38, "STRENGTH"], [39, 49, "FREQUENCY"]]}
+{"text": "Calvin Brooks confirmed the home address as 19 Cedar Lane, Austin, TX 78701 and phone number as 716-555-0107.", "entities": []}
+{"text": "Give 10 mL of Apixaban 500 mg cream topically twice daily for 14 days.", "entities": [[5, 10, "DOSAGE"], [14, 22, "DRUG"], [23, 29, "STRENGTH"], [30, 35, "FORM"], [36, 45, "ROUTE"], [46, 57, "FREQUENCY"], [58, 69, "DURATION"]]}
+{"text": "Give 10 mL of Albuterol 100 mg capsule intravenously with meals for 7 days.", "entities": [[5, 10, "DOSAGE"], [14, 23, "DRUG"], [24, 30, "STRENGTH"], [31, 38, "FORM"], [39, 52, "ROUTE"], [53, 63, "FREQUENCY"], [64, 74, "DURATION"]]}
+{"text": "Give one capsule of Lisinopril 75 mg tablet orally before meals for 5 days.", "entities": [[5, 16, "DOSAGE"], [20, 30, "DRUG"], [31, 36, "STRENGTH"], [37, 43, "FORM"], [44, 50, "ROUTE"], [51, 63, "FREQUENCY"], [64, 74, "DURATION"]]}
+{"text": "The patient receives Jardiance 10 mg once weekly.", "entities": [[21, 30, "DRUG"], [31, 36, "STRENGTH"], [37, 48, "FREQUENCY"]]}
+{"text": "Jonathan Reynolds takes Pantoprazole 2.5 mg once daily.", "entities": [[24, 36, "DRUG"], [37, 43, "STRENGTH"], [44, 54, "FREQUENCY"]]}
+{"text": "Luis Martinez lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 212-555-0199.", "entities": []}
+{"text": "Give 10 mL of Gabapentin 25 mg cream topically every 12 hours for 14 days.", "entities": [[5, 10, "DOSAGE"], [14, 24, "DRUG"], [25, 30, "STRENGTH"], [31, 36, "FORM"], [37, 46, "ROUTE"], [47, 61, "FREQUENCY"], [62, 73, "DURATION"]]}
+{"text": "Emily Reynolds lives at 330 Lakeview Drive, Chicago, IL 60611 and can be reached at 512-555-0188. The medication plan is Metformin 500 mg with meals.", "entities": [[121, 130, "DRUG"], [131, 137, "STRENGTH"], [138, 148, "FREQUENCY"]]}
+{"text": "Current medications: Clopidogrel 75 mg once daily; Pantoprazole 40 mg every morning.", "entities": [[21, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 49, "FREQUENCY"], [51, 63, "DRUG"], [64, 69, "STRENGTH"], [70, 83, "FREQUENCY"]]}
+{"text": "Use 1 puff of Albuterol 20 mg capsule intravenously nightly for 7 days.", "entities": [[4, 10, "DOSAGE"], [14, 23, "DRUG"], [24, 29, "STRENGTH"], [30, 37, "FORM"], [38, 51, "ROUTE"], [52, 59, "FREQUENCY"], [60, 70, "DURATION"]]}
+{"text": "Naomi Okafor remains on Atorvastatin 50 mg every morning.", "entities": [[24, 36, "DRUG"], [37, 42, "STRENGTH"], [43, 56, "FREQUENCY"]]}
+{"text": "Current medications: Clopidogrel 75 mg once daily; Pantoprazole 40 mg every morning.", "entities": [[21, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 49, "FREQUENCY"], [51, 63, "DRUG"], [64, 69, "STRENGTH"], [70, 83, "FREQUENCY"]]}
+{"text": "Continue Fluoxetine 25 mg every 8 hours.", "entities": [[9, 19, "DRUG"], [20, 25, "STRENGTH"], [26, 39, "FREQUENCY"]]}
+{"text": "Give 2 puffs of Amoxicillin 25 mg cream topically every 12 hours for 14 days.", "entities": [[5, 12, "DOSAGE"], [16, 27, "DRUG"], [28, 33, "STRENGTH"], [34, 39, "FORM"], [40, 49, "ROUTE"], [50, 64, "FREQUENCY"], [65, 76, "DURATION"]]}
+{"text": "Use one capsule of Furosemide 1 g cream topically twice daily for 14 days.", "entities": [[4, 15, "DOSAGE"], [19, 29, "DRUG"], [30, 33, "STRENGTH"], [34, 39, "FORM"], [40, 49, "ROUTE"], [50, 61, "FREQUENCY"], [62, 73, "DURATION"]]}
+{"text": "Use one tablet of Ceftriaxone 5 mg injection by mouth every morning until follow-up.", "entities": [[4, 14, "DOSAGE"], [18, 29, "DRUG"], [30, 34, "STRENGTH"], [35, 44, "FORM"], [45, 53, "ROUTE"], [54, 67, "FREQUENCY"], [68, 83, "DURATION"]]}
+{"text": "Priya Nair takes Jardiance 500 mg every morning.", "entities": [[17, 26, "DRUG"], [27, 33, "STRENGTH"], [34, 47, "FREQUENCY"]]}
+{"text": "Naomi Okafor remains on Furosemide 50 mg every morning.", "entities": [[24, 34, "DRUG"], [35, 40, "STRENGTH"], [41, 54, "FREQUENCY"]]}
+{"text": "Give 1 puff of Sertraline 20 mg solution subcutaneously every 8 hours for 10 days.", "entities": [[5, 11, "DOSAGE"], [15, 25, "DRUG"], [26, 31, "STRENGTH"], [32, 40, "FORM"], [41, 55, "ROUTE"], [56, 69, "FREQUENCY"], [70, 81, "DURATION"]]}
+{"text": "Current treatment includes Omeprazole 25 mg once daily.", "entities": [[27, 37, "DRUG"], [38, 43, "STRENGTH"], [44, 54, "FREQUENCY"]]}
+{"text": "The patient, Samuel Ortiz, moved to 19 Cedar Lane, Austin, TX 78701. Phone: 212-555-0199.", "entities": []}
+{"text": "Use 5 mL of Rosuvastatin 40 mg cream topically every 12 hours for 14 days.", "entities": [[4, 8, "DOSAGE"], [12, 24, "DRUG"], [25, 30, "STRENGTH"], [31, 36, "FORM"], [37, 46, "ROUTE"], [47, 61, "FREQUENCY"], [62, 73, "DURATION"]]}
+{"text": "The patient reports good adherence to the treatment plan.", "entities": []}
+{"text": "Current treatment includes Sertraline 2.5 mg every 8 hours.", "entities": [[27, 37, "DRUG"], [38, 44, "STRENGTH"], [45, 58, "FREQUENCY"]]}
+{"text": "The patient receives Atorvastatin 10 mg every morning.", "entities": [[21, 33, "DRUG"], [34, 39, "STRENGTH"], [40, 53, "FREQUENCY"]]}
+{"text": "Albuterol inhaler: 2 puffs as needed.", "entities": [[0, 9, "DRUG"], [10, 17, "FORM"], [19, 26, "DOSAGE"], [27, 36, "FREQUENCY"]]}
+{"text": "Current treatment includes Aspirin 100 mg every 8 hours.", "entities": [[27, 34, "DRUG"], [35, 41, "STRENGTH"], [42, 55, "FREQUENCY"]]}
+{"text": "Priya Nair takes Warfarin 500 mg every morning.", "entities": [[17, 25, "DRUG"], [26, 32, "STRENGTH"], [33, 46, "FREQUENCY"]]}
+{"text": "Give 10 units of Azithromycin 40 mg inhaler inhaled as needed for 30 days.", "entities": [[5, 13, "DOSAGE"], [17, 29, "DRUG"], [30, 35, "STRENGTH"], [36, 43, "FORM"], [44, 51, "ROUTE"], [52, 61, "FREQUENCY"], [62, 73, "DURATION"]]}
+{"text": "Use 2 puffs of Fluoxetine 100 mg tablet orally before meals for 5 days.", "entities": [[4, 11, "DOSAGE"], [15, 25, "DRUG"], [26, 32, "STRENGTH"], [33, 39, "FORM"], [40, 46, "ROUTE"], [47, 59, "FREQUENCY"], [60, 70, "DURATION"]]}
+{"text": "The caregiver requested a printed medication list.", "entities": []}
+{"text": "Prednisone 20 mg once daily for 5 days.", "entities": [[0, 10, "DRUG"], [11, 16, "STRENGTH"], [17, 27, "FREQUENCY"], [28, 38, "DURATION"]]}
+{"text": "Jonathan Reynolds takes Eliquis 2.5 mg every 8 hours.", "entities": [[24, 31, "DRUG"], [32, 38, "STRENGTH"], [39, 52, "FREQUENCY"]]}
+{"text": "Jonathan Reynolds lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Gabapentin 40 mg every 8 hours.", "entities": [[126, 136, "DRUG"], [137, 142, "STRENGTH"], [143, 156, "FREQUENCY"]]}
+{"text": "Mei-Ling Chen lives at 330 Lakeview Drive, Chicago, IL 60611 and can be reached at 512-555-0188. The medication plan is Aspirin 500 mg with meals.", "entities": [[120, 127, "DRUG"], [128, 134, "STRENGTH"], [135, 145, "FREQUENCY"]]}
+{"text": "Prednisone 20 mg once daily for 5 days.", "entities": [[0, 10, "DRUG"], [11, 16, "STRENGTH"], [17, 27, "FREQUENCY"], [28, 38, "DURATION"]]}
+{"text": "Current medications: Apixaban 5 mg twice daily; Omeprazole 20 mg every morning.", "entities": [[21, 29, "DRUG"], [30, 34, "STRENGTH"], [35, 46, "FREQUENCY"], [48, 58, "DRUG"], [59, 64, "STRENGTH"], [65, 78, "FREQUENCY"]]}
+{"text": "The patient, Fatima Al-Sayed, moved to 25 Harbor Road, Stony Brook, NY 11790. Phone: 212-555-0199.", "entities": []}
+{"text": "The patient, Samuel Ortiz, moved to 19 Cedar Lane, Austin, TX 78701. Phone: 212-555-0199.", "entities": []}
+{"text": "Jonathan Reynolds lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 212-555-0199.", "entities": []}
+{"text": "Current medications: Lisinopril 10 mg every morning; Atorvastatin 20 mg nightly.", "entities": [[21, 31, "DRUG"], [32, 37, "STRENGTH"], [38, 51, "FREQUENCY"], [53, 65, "DRUG"], [66, 71, "STRENGTH"], [72, 79, "FREQUENCY"]]}
+{"text": "Naomi Okafor remains on Azithromycin 2.5 mg every 8 hours.", "entities": [[24, 36, "DRUG"], [37, 43, "STRENGTH"], [44, 57, "FREQUENCY"]]}
+{"text": "Use 1 puff of Apixaban 40 mg cream topically every 12 hours for 14 days.", "entities": [[4, 10, "DOSAGE"], [14, 22, "DRUG"], [23, 28, "STRENGTH"], [29, 34, "FORM"], [35, 44, "ROUTE"], [45, 59, "FREQUENCY"], [60, 71, "DURATION"]]}
+{"text": "The patient denies any problems taking prescribed medicines.", "entities": []}
+{"text": "Rx: Lisinopril 10 mg once daily.", "entities": [[4, 14, "DRUG"], [15, 20, "STRENGTH"], [21, 31, "FREQUENCY"]]}
+{"text": "Continue Omeprazole 2.5 mg every 8 hours.", "entities": [[9, 19, "DRUG"], [20, 26, "STRENGTH"], [27, 40, "FREQUENCY"]]}
+{"text": "The treatment plan was reviewed with the patient.", "entities": []}
+{"text": "Henry Cole lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Albuterol 1 g once daily.", "entities": [[119, 128, "DRUG"], [129, 132, "STRENGTH"], [133, 143, "FREQUENCY"]]}
+{"text": "Alicia Morgan lives at 440 East 72nd Street, Apt 9A, New York, NY 10021 and can be reached at 646-555-0109. The medication plan is Insulin glargine 2.5 mg twice daily.", "entities": [[131, 147, "DRUG"], [148, 154, "STRENGTH"], [155, 166, "FREQUENCY"]]}
+{"text": "Continue Entresto 25 mg once daily.", "entities": [[9, 17, "DRUG"], [18, 23, "STRENGTH"], [24, 34, "FREQUENCY"]]}
+{"text": "The patient, Henry Cole, moved to 901 West Pine Street, Buffalo, NY 14201. Phone: 716-555-0107.", "entities": []}
+{"text": "Continue Hydrochlorothiazide 500 mg every morning.", "entities": [[9, 28, "DRUG"], [29, 35, "STRENGTH"], [36, 49, "FREQUENCY"]]}
+{"text": "Naomi Okafor lives at 812 Maple Avenue, Boston, MA 02118 and can be reached at 212-555-0199. The medication plan is Insulin glargine 10 mg every morning.", "entities": [[116, 132, "DRUG"], [133, 138, "STRENGTH"], [139, 152, "FREQUENCY"]]}
+{"text": "The patient receives Ceftriaxone 50 mg every morning.", "entities": [[21, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 52, "FREQUENCY"]]}
+{"text": "Priya Nair takes Azithromycin 25 mg once daily.", "entities": [[17, 29, "DRUG"], [30, 35, "STRENGTH"], [36, 46, "FREQUENCY"]]}
+{"text": "Jonathan Reynolds lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Apixaban 1 g once daily.", "entities": [[126, 134, "DRUG"], [135, 138, "STRENGTH"], [139, 149, "FREQUENCY"]]}
+{"text": "Current medications: Apixaban 5 mg twice daily; Omeprazole 20 mg every morning.", "entities": [[21, 29, "DRUG"], [30, 34, "STRENGTH"], [35, 46, "FREQUENCY"], [48, 58, "DRUG"], [59, 64, "STRENGTH"], [65, 78, "FREQUENCY"]]}
+{"text": "Emily Reynolds remains on Donepezil 25 mg every 8 hours.", "entities": [[26, 35, "DRUG"], [36, 41, "STRENGTH"], [42, 55, "FREQUENCY"]]}
+{"text": "The patient receives Doxycycline 10 mg every morning.", "entities": [[21, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 52, "FREQUENCY"]]}
+{"text": "Give one tablet of Prednisone 250 mg solution subcutaneously once daily for 10 days.", "entities": [[5, 15, "DOSAGE"], [19, 29, "DRUG"], [30, 36, "STRENGTH"], [37, 45, "FORM"], [46, 60, "ROUTE"], [61, 71, "FREQUENCY"], [72, 83, "DURATION"]]}
+{"text": "Jonathan Reynolds lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107.", "entities": []}
+{"text": "Current medications: Clopidogrel 75 mg once daily; Pantoprazole 40 mg every morning.", "entities": [[21, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 49, "FREQUENCY"], [51, 63, "DRUG"], [64, 69, "STRENGTH"], [70, 83, "FREQUENCY"]]}
+{"text": "Marcus Bennett remains on Amlodipine 100 mg once daily.", "entities": [[26, 36, "DRUG"], [37, 43, "STRENGTH"], [44, 54, "FREQUENCY"]]}
+{"text": "Noor Al-Sayed confirmed the home address as 901 West Pine Street, Buffalo, NY 14201 and phone number as 212-555-0199.", "entities": []}
+{"text": "Give 5 mL of Insulin glargine 5 mg tablet orally every evening for 5 days.", "entities": [[5, 9, "DOSAGE"], [13, 29, "DRUG"], [30, 34, "STRENGTH"], [35, 41, "FORM"], [42, 48, "ROUTE"], [49, 62, "FREQUENCY"], [63, 73, "DURATION"]]}
+{"text": "Calvin Brooks lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 631-555-0142. The medication plan is Levothyroxine 75 mg as needed.", "entities": [[120, 133, "DRUG"], [134, 139, "STRENGTH"], [140, 149, "FREQUENCY"]]}
+{"text": "Jonathan Reynolds lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107.", "entities": []}
+{"text": "Use one capsule of Acetaminophen 20 mg capsule intravenously nightly for 7 days.", "entities": [[4, 15, "DOSAGE"], [19, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 46, "FORM"], [47, 60, "ROUTE"], [61, 68, "FREQUENCY"], [69, 79, "DURATION"]]}
+{"text": "Insulin glargine 10 units subcutaneously nightly.", "entities": [[0, 16, "DRUG"], [17, 25, "DOSAGE"], [26, 40, "ROUTE"], [41, 48, "FREQUENCY"]]}
+{"text": "The patient receives Gabapentin 500 mg every morning.", "entities": [[21, 31, "DRUG"], [32, 38, "STRENGTH"], [39, 52, "FREQUENCY"]]}
+{"text": "Give 2 puffs of Spironolactone 10 mg capsule intravenously nightly for 7 days.", "entities": [[5, 12, "DOSAGE"], [16, 30, "DRUG"], [31, 36, "STRENGTH"], [37, 44, "FORM"], [45, 58, "ROUTE"], [59, 66, "FREQUENCY"], [67, 77, "DURATION"]]}
+{"text": "Use 5 mL of Atorvastatin 20 mg capsule intravenously nightly for 7 days.", "entities": [[4, 8, "DOSAGE"], [12, 24, "DRUG"], [25, 30, "STRENGTH"], [31, 38, "FORM"], [39, 52, "ROUTE"], [53, 60, "FREQUENCY"], [61, 71, "DURATION"]]}
+{"text": "Priya Nair takes Insulin glargine 25 mg every 8 hours.", "entities": [[17, 33, "DRUG"], [34, 39, "STRENGTH"], [40, 53, "FREQUENCY"]]}
+{"text": "Luis Martinez lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 617-555-0124. The medication plan is Albuterol 250 mg before meals.", "entities": [[114, 123, "DRUG"], [124, 130, "STRENGTH"], [131, 143, "FREQUENCY"]]}
+{"text": "Current medications: Eliquis 5 mg twice daily; Jardiance 10 mg once daily.", "entities": [[21, 28, "DRUG"], [29, 33, "STRENGTH"], [34, 45, "FREQUENCY"], [47, 56, "DRUG"], [57, 62, "STRENGTH"], [63, 73, "FREQUENCY"]]}
+{"text": "Noor Al-Sayed lives at 901 West Pine Street, Buffalo, NY 14201 and can be reached at 716-555-0107. The medication plan is Ceftriaxone 40 mg every 8 hours.", "entities": [[122, 133, "DRUG"], [134, 139, "STRENGTH"], [140, 153, "FREQUENCY"]]}
+{"text": "Give 10 units of Carvedilol 75 mg tablet orally before meals for 5 days.", "entities": [[5, 13, "DOSAGE"], [17, 27, "DRUG"], [28, 33, "STRENGTH"], [34, 40, "FORM"], [41, 47, "ROUTE"], [48, 60, "FREQUENCY"], [61, 71, "DURATION"]]}
+{"text": "Use two capsules of Lisinopril 10 mg tablet orally every evening for 5 days.", "entities": [[4, 16, "DOSAGE"], [20, 30, "DRUG"], [31, 36, "STRENGTH"], [37, 43, "FORM"], [44, 50, "ROUTE"], [51, 64, "FREQUENCY"], [65, 75, "DURATION"]]}
+{"text": "Continue Doxycycline 50 mg once weekly.", "entities": [[9, 20, "DRUG"], [21, 26, "STRENGTH"], [27, 38, "FREQUENCY"]]}
+{"text": "Emily Reynolds lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 631-555-0142. The medication plan is Ceftriaxone 75 mg as needed.", "entities": [[121, 132, "DRUG"], [133, 138, "STRENGTH"], [139, 148, "FREQUENCY"]]}
+{"text": "Jonathan Reynolds takes Levothyroxine 50 mg every morning.", "entities": [[24, 37, "DRUG"], [38, 43, "STRENGTH"], [44, 57, "FREQUENCY"]]}
+{"text": "Alicia Morgan lives at 440 East 72nd Street, Apt 9A, New York, NY 10021 and can be reached at 646-555-0109. The medication plan is Azithromycin 50 mg every 12 hours.", "entities": [[131, 143, "DRUG"], [144, 149, "STRENGTH"], [150, 164, "FREQUENCY"]]}
+{"text": "Continue atorvastatin 20 mg nightly.", "entities": [[9, 21, "DRUG"], [22, 27, "STRENGTH"], [28, 35, "FREQUENCY"]]}
+{"text": "Use 2 puffs of Donepezil 25 mg solution subcutaneously every 8 hours for 10 days.", "entities": [[4, 11, "DOSAGE"], [15, 24, "DRUG"], [25, 30, "STRENGTH"], [31, 39, "FORM"], [40, 54, "ROUTE"], [55, 68, "FREQUENCY"], [69, 80, "DURATION"]]}
+{"text": "Use 2 puffs of Sertraline 500 mg solution subcutaneously once daily for 10 days.", "entities": [[4, 11, "DOSAGE"], [15, 25, "DRUG"], [26, 32, "STRENGTH"], [33, 41, "FORM"], [42, 56, "ROUTE"], [57, 67, "FREQUENCY"], [68, 79, "DURATION"]]}
+{"text": "Jonathan Reynolds takes Lisinopril 2.5 mg once daily.", "entities": [[24, 34, "DRUG"], [35, 41, "STRENGTH"], [42, 52, "FREQUENCY"]]}
+{"text": "Caregiver Marcus Bennett called from 212-555-0199 regarding transportation from 25 Harbor Road, Stony Brook, NY 11790.", "entities": []}
+{"text": "Use one capsule of Benadryl 5 mg injection by mouth every morning until follow-up.", "entities": [[4, 15, "DOSAGE"], [19, 27, "DRUG"], [28, 32, "STRENGTH"], [33, 42, "FORM"], [43, 51, "ROUTE"], [52, 65, "FREQUENCY"], [66, 81, "DURATION"]]}
+{"text": "The nurse reconciled all medications in the chart.", "entities": []}
+{"text": "Give 2 puffs of Furosemide 50 mg injection by mouth once weekly until follow-up.", "entities": [[5, 12, "DOSAGE"], [16, 26, "DRUG"], [27, 32, "STRENGTH"], [33, 42, "FORM"], [43, 51, "ROUTE"], [52, 63, "FREQUENCY"], [64, 79, "DURATION"]]}
+{"text": "Prednisone 20 mg once daily for 5 days.", "entities": [[0, 10, "DRUG"], [11, 16, "STRENGTH"], [17, 27, "FREQUENCY"], [28, 38, "DURATION"]]}
+{"text": "Caregiver Marcus Bennett called from 716-555-0107 regarding transportation from 25 Harbor Road, Stony Brook, NY 11790.", "entities": []}
+{"text": "Apixaban 5 mg by mouth twice daily.", "entities": [[0, 8, "DRUG"], [9, 13, "STRENGTH"], [14, 22, "ROUTE"], [23, 34, "FREQUENCY"]]}
+{"text": "Current medications: Metformin 500 mg twice daily; Amlodipine 5 mg once daily.", "entities": [[21, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 49, "FREQUENCY"], [51, 61, "DRUG"], [62, 66, "STRENGTH"], [67, 77, "FREQUENCY"]]}
+{"text": "Current treatment includes Lisinopril 25 mg once daily.", "entities": [[27, 37, "DRUG"], [38, 43, "STRENGTH"], [44, 54, "FREQUENCY"]]}
+{"text": "Current medications: Gabapentin 100 mg three times daily; Losartan 50 mg once daily.", "entities": [[21, 31, "DRUG"], [32, 38, "STRENGTH"], [39, 56, "FREQUENCY"], [58, 66, "DRUG"], [67, 72, "STRENGTH"], [73, 83, "FREQUENCY"]]}
+{"text": "START METFORMIN 500 mg TWICE DAILY.", "entities": [[6, 15, "DRUG"], [16, 22, "STRENGTH"], [23, 34, "FREQUENCY"]]}
+{"text": "Use 10 units of Amoxicillin 1 g cream topically twice daily for 14 days.", "entities": [[4, 12, "DOSAGE"], [16, 27, "DRUG"], [28, 31, "STRENGTH"], [32, 37, "FORM"], [38, 47, "ROUTE"], [48, 59, "FREQUENCY"], [60, 71, "DURATION"]]}
+{"text": "Emily Reynolds remains on Spironolactone 500 mg every morning.", "entities": [[26, 40, "DRUG"], [41, 47, "STRENGTH"], [48, 61, "FREQUENCY"]]}
+{"text": "Current medications: Metformin 500 mg twice daily; Amlodipine 5 mg once daily.", "entities": [[21, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 49, "FREQUENCY"], [51, 61, "DRUG"], [62, 66, "STRENGTH"], [67, 77, "FREQUENCY"]]}
+{"text": "Use one tablet of Jardiance 1 g cream topically twice daily for 14 days.", "entities": [[4, 14, "DOSAGE"], [18, 27, "DRUG"], [28, 31, "STRENGTH"], [32, 37, "FORM"], [38, 47, "ROUTE"], [48, 59, "FREQUENCY"], [60, 71, "DURATION"]]}
+{"text": "Continue Metformin 25 mg every 8 hours.", "entities": [[9, 18, "DRUG"], [19, 24, "STRENGTH"], [25, 38, "FREQUENCY"]]}
+{"text": "Samuel Ortiz lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 631-555-0142. The medication plan is Benadryl 75 mg as needed.", "entities": [[119, 127, "DRUG"], [128, 133, "STRENGTH"], [134, 143, "FREQUENCY"]]}
+{"text": "Marcus Bennett remains on Eliquis 100 mg once daily.", "entities": [[26, 33, "DRUG"], [34, 40, "STRENGTH"], [41, 51, "FREQUENCY"]]}
+{"text": "Noor Al-Sayed confirmed the home address as 901 West Pine Street, Buffalo, NY 14201 and phone number as 716-555-0107.", "entities": []}
+{"text": "The patient, Fatima Al-Sayed, moved to 25 Harbor Road, Stony Brook, NY 11790. Phone: 716-555-0107.", "entities": []}
+{"text": "Use 10 units of Spironolactone 250 mg capsule intravenously with meals for 7 days.", "entities": [[4, 12, "DOSAGE"], [16, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 45, "FORM"], [46, 59, "ROUTE"], [60, 70, "FREQUENCY"], [71, 81, "DURATION"]]}
+{"text": "Give 20 units of Jardiance 25 mg cream topically every 12 hours for 14 days.", "entities": [[5, 13, "DOSAGE"], [17, 26, "DRUG"], [27, 32, "STRENGTH"], [33, 38, "FORM"], [39, 48, "ROUTE"], [49, 63, "FREQUENCY"], [64, 75, "DURATION"]]}
+{"text": "Emergency contact is Sofia Delgado, residing at 25 Harbor Road, Stony Brook, NY 11790, telephone 716-555-0107.", "entities": []}
+{"text": "Continue atorvastatin 20 mg nightly.", "entities": [[9, 21, "DRUG"], [22, 27, "STRENGTH"], [28, 35, "FREQUENCY"]]}
+{"text": "Sofia Delgado lives at 440 East 72nd Street, Apt 9A, New York, NY 10021 and can be reached at 646-555-0109. The medication plan is Carvedilol 50 mg every 12 hours.", "entities": [[131, 141, "DRUG"], [142, 147, "STRENGTH"], [148, 162, "FREQUENCY"]]}
+{"text": "Continue atorvastatin 20 mg nightly.", "entities": [[9, 21, "DRUG"], [22, 27, "STRENGTH"], [28, 35, "FREQUENCY"]]}
+{"text": "Alicia Morgan confirmed the home address as 25 Harbor Road, Stony Brook, NY 11790 and phone number as 212-555-0199.", "entities": []}
+{"text": "Use two tablets of Prednisone 25 mg solution subcutaneously every 8 hours for 10 days.", "entities": [[4, 15, "DOSAGE"], [19, 29, "DRUG"], [30, 35, "STRENGTH"], [36, 44, "FORM"], [45, 59, "ROUTE"], [60, 73, "FREQUENCY"], [74, 85, "DURATION"]]}
+{"text": "Emergency contact is Mei-Ling Chen, residing at 19 Cedar Lane, Austin, TX 78701, telephone 212-555-0199.", "entities": []}
+{"text": "Jonathan Reynolds lives at 812 Maple Avenue, Boston, MA 02118 and can be reached at 212-555-0199. The medication plan is Sertraline 10 mg every morning.", "entities": [[121, 131, "DRUG"], [132, 137, "STRENGTH"], [138, 151, "FREQUENCY"]]}
+{"text": "Naomi Okafor remains on Warfarin 50 mg once weekly.", "entities": [[24, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 50, "FREQUENCY"]]}
+{"text": "Apixaban 5 mg by mouth twice daily.", "entities": [[0, 8, "DRUG"], [9, 13, "STRENGTH"], [14, 22, "ROUTE"], [23, 34, "FREQUENCY"]]}
+{"text": "Use 20 units of Eliquis 500 mg solution subcutaneously once daily for 10 days.", "entities": [[4, 12, "DOSAGE"], [16, 23, "DRUG"], [24, 30, "STRENGTH"], [31, 39, "FORM"], [40, 54, "ROUTE"], [55, 65, "FREQUENCY"], [66, 77, "DURATION"]]}
+{"text": "The patient uses a weekly pill organizer.", "entities": []}
+{"text": "Emergency contact is George Patel, residing at 901 West Pine Street, Buffalo, NY 14201, telephone 212-555-0199.", "entities": []}
+{"text": "Priya Nair lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 716-555-0107.", "entities": []}
+{"text": "Samuel Ortiz lives at 330 Lakeview Drive, Chicago, IL 60611 and can be reached at 512-555-0188. The medication plan is Sertraline 25 mg nightly.", "entities": [[119, 129, "DRUG"], [130, 135, "STRENGTH"], [136, 143, "FREQUENCY"]]}
+{"text": "Jonathan Reynolds lives at 812 Maple Avenue, Boston, MA 02118 and can be reached at 212-555-0199. The medication plan is Ibuprofen 100 mg once weekly.", "entities": [[121, 130, "DRUG"], [131, 137, "STRENGTH"], [138, 149, "FREQUENCY"]]}
+{"text": "Insulin glargine 10 units subcutaneously nightly.", "entities": [[0, 16, "DRUG"], [17, 25, "DOSAGE"], [26, 40, "ROUTE"], [41, 48, "FREQUENCY"]]}
+{"text": "The patient receives Ibuprofen 25 mg once daily.", "entities": [[21, 30, "DRUG"], [31, 36, "STRENGTH"], [37, 47, "FREQUENCY"]]}
+{"text": "Give 5 mL of Pantoprazole 1 g inhaler inhaled three times daily for 30 days.", "entities": [[5, 9, "DOSAGE"], [13, 25, "DRUG"], [26, 29, "STRENGTH"], [30, 37, "FORM"], [38, 45, "ROUTE"], [46, 63, "FREQUENCY"], [64, 75, "DURATION"]]}
+{"text": "Give 5 mL of Metformin 250 mg solution subcutaneously once daily for 10 days.", "entities": [[5, 9, "DOSAGE"], [13, 22, "DRUG"], [23, 29, "STRENGTH"], [30, 38, "FORM"], [39, 53, "ROUTE"], [54, 64, "FREQUENCY"], [65, 76, "DURATION"]]}
+{"text": "Use 20 units of Insulin glargine 50 mg inhaler inhaled as needed for 30 days.", "entities": [[4, 12, "DOSAGE"], [16, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 46, "FORM"], [47, 54, "ROUTE"], [55, 64, "FREQUENCY"], [65, 76, "DURATION"]]}
+{"text": "Caregiver Marcus Bennett called from 212-555-0199 regarding transportation from 25 Harbor Road, Stony Brook, NY 11790.", "entities": []}
+{"text": "Give two tablets of Furosemide 25 mg cream topically every 12 hours for 14 days.", "entities": [[5, 16, "DOSAGE"], [20, 30, "DRUG"], [31, 36, "STRENGTH"], [37, 42, "FORM"], [43, 52, "ROUTE"], [53, 67, "FREQUENCY"], [68, 79, "DURATION"]]}
+{"text": "Marcus Bennett lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 617-555-0124. The medication plan is Gabapentin 20 mg every evening.", "entities": [[115, 125, "DRUG"], [126, 131, "STRENGTH"], [132, 145, "FREQUENCY"]]}
+{"text": "Current medications: Apixaban 5 mg twice daily; Omeprazole 20 mg every morning.", "entities": [[21, 29, "DRUG"], [30, 34, "STRENGTH"], [35, 46, "FREQUENCY"], [48, 58, "DRUG"], [59, 64, "STRENGTH"], [65, 78, "FREQUENCY"]]}
+{"text": "Rx: Lisinopril 10 mg once daily.", "entities": [[4, 14, "DRUG"], [15, 20, "STRENGTH"], [21, 31, "FREQUENCY"]]}
+{"text": "Prednisone 20 mg once daily for 5 days.", "entities": [[0, 10, "DRUG"], [11, 16, "STRENGTH"], [17, 27, "FREQUENCY"], [28, 38, "DURATION"]]}
+{"text": "Alicia Morgan lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 617-555-0124. The medication plan is Atorvastatin 250 mg before meals.", "entities": [[114, 126, "DRUG"], [127, 133, "STRENGTH"], [134, 146, "FREQUENCY"]]}
+{"text": "Current medications: Metformin 500 mg twice daily; Amlodipine 5 mg once daily.", "entities": [[21, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 49, "FREQUENCY"], [51, 61, "DRUG"], [62, 66, "STRENGTH"], [67, 77, "FREQUENCY"]]}
+{"text": "Alicia Morgan confirmed the home address as 25 Harbor Road, Stony Brook, NY 11790 and phone number as 716-555-0107.", "entities": []}
+{"text": "The patient, Henry Cole, moved to 901 West Pine Street, Buffalo, NY 14201. Phone: 212-555-0199.", "entities": []}
+{"text": "Continue Benadryl 10 mg once weekly.", "entities": [[9, 17, "DRUG"], [18, 23, "STRENGTH"], [24, 35, "FREQUENCY"]]}
+{"text": "Caregiver Emily Reynolds called from 212-555-0199 regarding transportation from 19 Cedar Lane, Austin, TX 78701.", "entities": []}
+{"text": "START METFORMIN 500 mg TWICE DAILY.", "entities": [[6, 15, "DRUG"], [16, 22, "STRENGTH"], [23, 34, "FREQUENCY"]]}
+{"text": "Marcus Bennett lives at 440 East 72nd Street, Apt 9A, New York, NY 10021 and can be reached at 646-555-0109. The medication plan is Ibuprofen 50 mg every 12 hours.", "entities": [[132, 141, "DRUG"], [142, 147, "STRENGTH"], [148, 162, "FREQUENCY"]]}
+{"text": "Use two capsules of Carvedilol 2.5 mg inhaler inhaled three times daily for 30 days.", "entities": [[4, 16, "DOSAGE"], [20, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 45, "FORM"], [46, 53, "ROUTE"], [54, 71, "FREQUENCY"], [72, 83, "DURATION"]]}
+{"text": "Use 10 mL of Metformin 25 mg solution subcutaneously every 8 hours for 10 days.", "entities": [[4, 9, "DOSAGE"], [13, 22, "DRUG"], [23, 28, "STRENGTH"], [29, 37, "FORM"], [38, 52, "ROUTE"], [53, 66, "FREQUENCY"], [67, 78, "DURATION"]]}
+{"text": "Calvin Brooks confirmed the home address as 19 Cedar Lane, Austin, TX 78701 and phone number as 212-555-0199.", "entities": []}
+{"text": "Rx: Lisinopril 10 mg once daily.", "entities": [[4, 14, "DRUG"], [15, 20, "STRENGTH"], [21, 31, "FREQUENCY"]]}
+{"text": "No medication changes were made at this appointment.", "entities": []}
+{"text": "Rx: Lisinopril 10 mg once daily.", "entities": [[4, 14, "DRUG"], [15, 20, "STRENGTH"], [21, 31, "FREQUENCY"]]}
+{"text": "Give one tablet of Omeprazole 20 mg solution subcutaneously every 8 hours for 10 days.", "entities": [[5, 15, "DOSAGE"], [19, 29, "DRUG"], [30, 35, "STRENGTH"], [36, 44, "FORM"], [45, 59, "ROUTE"], [60, 73, "FREQUENCY"], [74, 85, "DURATION"]]}
+{"text": "Current treatment includes Benadryl 50 mg every morning.", "entities": [[27, 35, "DRUG"], [36, 41, "STRENGTH"], [42, 55, "FREQUENCY"]]}
+{"text": "Sofia Delgado lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 617-555-0124. The medication plan is Spironolactone 20 mg every evening.", "entities": [[114, 128, "DRUG"], [129, 134, "STRENGTH"], [135, 148, "FREQUENCY"]]}
+{"text": "Use 5 mL of Losartan 75 mg injection by mouth once weekly until follow-up.", "entities": [[4, 8, "DOSAGE"], [12, 20, "DRUG"], [21, 26, "STRENGTH"], [27, 36, "FORM"], [37, 45, "ROUTE"], [46, 57, "FREQUENCY"], [58, 73, "DURATION"]]}
+{"text": "Fatima Al-Sayed lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 617-555-0124. The medication plan is Amoxicillin 20 mg every evening.", "entities": [[116, 127, "DRUG"], [128, 133, "STRENGTH"], [134, 147, "FREQUENCY"]]}
+{"text": "Medication counseling was provided before discharge.", "entities": []}
+{"text": "Mei-Ling Chen lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 631-555-0142. The medication plan is Furosemide 75 mg as needed.", "entities": [[120, 130, "DRUG"], [131, 136, "STRENGTH"], [137, 146, "FREQUENCY"]]}
+{"text": "Current treatment includes Fluoxetine 100 mg once daily.", "entities": [[27, 37, "DRUG"], [38, 44, "STRENGTH"], [45, 55, "FREQUENCY"]]}
+{"text": "Current medications: Metformin 500 mg twice daily; Amlodipine 5 mg once daily.", "entities": [[21, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 49, "FREQUENCY"], [51, 61, "DRUG"], [62, 66, "STRENGTH"], [67, 77, "FREQUENCY"]]}
+{"text": "Priya Nair lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 716-555-0107.", "entities": []}
+{"text": "Calvin Brooks lives at 330 Lakeview Drive, Chicago, IL 60611 and can be reached at 512-555-0188. The medication plan is Eliquis 25 mg nightly.", "entities": [[120, 127, "DRUG"], [128, 133, "STRENGTH"], [134, 141, "FREQUENCY"]]}
+{"text": "Caregiver Emily Reynolds called from 716-555-0107 regarding transportation from 19 Cedar Lane, Austin, TX 78701.", "entities": []}
+{"text": "Use 10 mL of Prednisone 10 mg tablet orally every evening for 5 days.", "entities": [[4, 9, "DOSAGE"], [13, 23, "DRUG"], [24, 29, "STRENGTH"], [30, 36, "FORM"], [37, 43, "ROUTE"], [44, 57, "FREQUENCY"], [58, 68, "DURATION"]]}
+{"text": "Emergency contact is Sofia Delgado, residing at 25 Harbor Road, Stony Brook, NY 11790, telephone 716-555-0107.", "entities": []}
+{"text": "No new prescriptions were issued today.", "entities": []}
+{"text": "Give 20 units of Ceftriaxone 50 mg injection by mouth once weekly until follow-up.", "entities": [[5, 13, "DOSAGE"], [17, 28, "DRUG"], [29, 34, "STRENGTH"], [35, 44, "FORM"], [45, 53, "ROUTE"], [54, 65, "FREQUENCY"], [66, 81, "DURATION"]]}
+{"text": "The patient receives Metformin 2.5 mg once daily.", "entities": [[21, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 48, "FREQUENCY"]]}
+{"text": "Henry Cole lives at 812 Maple Avenue, Boston, MA 02118 and can be reached at 212-555-0199. The medication plan is Fluoxetine 10 mg every morning.", "entities": [[114, 124, "DRUG"], [125, 130, "STRENGTH"], [131, 144, "FREQUENCY"]]}
+{"text": "Give 20 units of Gabapentin 10 mg capsule intravenously nightly for 7 days.", "entities": [[5, 13, "DOSAGE"], [17, 27, "DRUG"], [28, 33, "STRENGTH"], [34, 41, "FORM"], [42, 55, "ROUTE"], [56, 63, "FREQUENCY"], [64, 74, "DURATION"]]}
+{"text": "Current medications: Clopidogrel 75 mg once daily; Pantoprazole 40 mg every morning.", "entities": [[21, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 49, "FREQUENCY"], [51, 63, "DRUG"], [64, 69, "STRENGTH"], [70, 83, "FREQUENCY"]]}
+{"text": "Current medications: Lisinopril 10 mg every morning; Atorvastatin 20 mg nightly.", "entities": [[21, 31, "DRUG"], [32, 37, "STRENGTH"], [38, 51, "FREQUENCY"], [53, 65, "DRUG"], [66, 71, "STRENGTH"], [72, 79, "FREQUENCY"]]}
+{"text": "Give 10 mL of Hydrochlorothiazide 10 mg capsule intravenously nightly for 7 days.", "entities": [[5, 10, "DOSAGE"], [14, 33, "DRUG"], [34, 39, "STRENGTH"], [40, 47, "FORM"], [48, 61, "ROUTE"], [62, 69, "FREQUENCY"], [70, 80, "DURATION"]]}
+{"text": "Current medications: Gabapentin 100 mg three times daily; Losartan 50 mg once daily.", "entities": [[21, 31, "DRUG"], [32, 38, "STRENGTH"], [39, 56, "FREQUENCY"], [58, 66, "DRUG"], [67, 72, "STRENGTH"], [73, 83, "FREQUENCY"]]}
+{"text": "Use two tablets of Omeprazole 500 mg solution subcutaneously once daily for 10 days.", "entities": [[4, 15, "DOSAGE"], [19, 29, "DRUG"], [30, 36, "STRENGTH"], [37, 45, "FORM"], [46, 60, "ROUTE"], [61, 71, "FREQUENCY"], [72, 83, "DURATION"]]}
+{"text": "Emergency contact is George Patel, residing at 901 West Pine Street, Buffalo, NY 14201, telephone 716-555-0107.", "entities": []}
+{"text": "The patient, Henry Cole, moved to 901 West Pine Street, Buffalo, NY 14201. Phone: 716-555-0107.", "entities": []}
+{"text": "The patient receives Hydrochlorothiazide 50 mg once weekly.", "entities": [[21, 40, "DRUG"], [41, 46, "STRENGTH"], [47, 58, "FREQUENCY"]]}
+{"text": "The medical team reviewed adherence at follow-up.", "entities": []}
+{"text": "The patient, Samuel Ortiz, moved to 19 Cedar Lane, Austin, TX 78701. Phone: 716-555-0107.", "entities": []}
+{"text": "Noor Al-Sayed lives at 812 Maple Avenue, Boston, MA 02118 and can be reached at 212-555-0199. The medication plan is Clopidogrel 10 mg every morning.", "entities": [[117, 128, "DRUG"], [129, 134, "STRENGTH"], [135, 148, "FREQUENCY"]]}
+{"text": "Fatima Al-Sayed lives at 440 East 72nd Street, Apt 9A, New York, NY 10021 and can be reached at 646-555-0109. The medication plan is Omeprazole 50 mg every 12 hours.", "entities": [[133, 143, "DRUG"], [144, 149, "STRENGTH"], [150, 164, "FREQUENCY"]]}
+{"text": "Current treatment includes Acetaminophen 500 mg once weekly.", "entities": [[27, 40, "DRUG"], [41, 47, "STRENGTH"], [48, 59, "FREQUENCY"]]}
+{"text": "Priya Nair takes Atorvastatin 500 mg once weekly.", "entities": [[17, 29, "DRUG"], [30, 36, "STRENGTH"], [37, 48, "FREQUENCY"]]}
+{"text": "Give one tablet of Entresto 40 mg inhaler inhaled as needed for 30 days.", "entities": [[5, 15, "DOSAGE"], [19, 27, "DRUG"], [28, 33, "STRENGTH"], [34, 41, "FORM"], [42, 49, "ROUTE"], [50, 59, "FREQUENCY"], [60, 71, "DURATION"]]}
+{"text": "Current medications: Apixaban 5 mg twice daily; Omeprazole 20 mg every morning.", "entities": [[21, 29, "DRUG"], [30, 34, "STRENGTH"], [35, 46, "FREQUENCY"], [48, 58, "DRUG"], [59, 64, "STRENGTH"], [65, 78, "FREQUENCY"]]}
+{"text": "Priya Nair lives at 330 Lakeview Drive, Chicago, IL 60611 and can be reached at 512-555-0188. The medication plan is Omeprazole 25 mg nightly.", "entities": [[117, 127, "DRUG"], [128, 133, "STRENGTH"], [134, 141, "FREQUENCY"]]}
+{"text": "Alicia Morgan confirmed the home address as 25 Harbor Road, Stony Brook, NY 11790 and phone number as 212-555-0199.", "entities": []}
+{"text": "Luis Martinez takes Clopidogrel 100 mg once daily.", "entities": [[20, 31, "DRUG"], [32, 38, "STRENGTH"], [39, 49, "FREQUENCY"]]}
+{"text": "Current medications: Clopidogrel 75 mg once daily; Pantoprazole 40 mg every morning.", "entities": [[21, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 49, "FREQUENCY"], [51, 63, "DRUG"], [64, 69, "STRENGTH"], [70, 83, "FREQUENCY"]]}
+{"text": "Current treatment includes Spironolactone 50 mg once weekly.", "entities": [[27, 41, "DRUG"], [42, 47, "STRENGTH"], [48, 59, "FREQUENCY"]]}
+{"text": "Priya Nair lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 212-555-0199.", "entities": []}
+{"text": "Use 5 mL of Levothyroxine 5 mg injection by mouth every morning until follow-up.", "entities": [[4, 8, "DOSAGE"], [12, 25, "DRUG"], [26, 30, "STRENGTH"], [31, 40, "FORM"], [41, 49, "ROUTE"], [50, 63, "FREQUENCY"], [64, 79, "DURATION"]]}
+{"text": "Continue Ibuprofen 100 mg every 8 hours.", "entities": [[9, 18, "DRUG"], [19, 25, "STRENGTH"], [26, 39, "FREQUENCY"]]}
+{"text": "Priya Nair lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 631-555-0142. The medication plan is Doxycycline 5 mg three times daily.", "entities": [[117, 128, "DRUG"], [129, 133, "STRENGTH"], [134, 151, "FREQUENCY"]]}
+{"text": "Current medications: Eliquis 5 mg twice daily; Jardiance 10 mg once daily.", "entities": [[21, 28, "DRUG"], [29, 33, "STRENGTH"], [34, 45, "FREQUENCY"], [47, 56, "DRUG"], [57, 62, "STRENGTH"], [63, 73, "FREQUENCY"]]}
+{"text": "Current medications: Lisinopril 10 mg every morning; Atorvastatin 20 mg nightly.", "entities": [[21, 31, "DRUG"], [32, 37, "STRENGTH"], [38, 51, "FREQUENCY"], [53, 65, "DRUG"], [66, 71, "STRENGTH"], [72, 79, "FREQUENCY"]]}
+{"text": "Marcus Bennett remains on Losartan 10 mg every morning.", "entities": [[26, 34, "DRUG"], [35, 40, "STRENGTH"], [41, 54, "FREQUENCY"]]}
+{"text": "Current medications: Eliquis 5 mg twice daily; Jardiance 10 mg once daily.", "entities": [[21, 28, "DRUG"], [29, 33, "STRENGTH"], [34, 45, "FREQUENCY"], [47, 56, "DRUG"], [57, 62, "STRENGTH"], [63, 73, "FREQUENCY"]]}
+{"text": "The caregiver manages the patient's pill box every week.", "entities": []}
+{"text": "The patient asked whether any medicines should be stopped.", "entities": []}
+{"text": "Current medications: Metformin 500 mg twice daily; Amlodipine 5 mg once daily.", "entities": [[21, 30, "DRUG"], [31, 37, "STRENGTH"], [38, 49, "FREQUENCY"], [51, 61, "DRUG"], [62, 66, "STRENGTH"], [67, 77, "FREQUENCY"]]}
+{"text": "Give one capsule of Carvedilol 40 mg inhaler inhaled as needed for 30 days.", "entities": [[5, 16, "DOSAGE"], [20, 30, "DRUG"], [31, 36, "STRENGTH"], [37, 44, "FORM"], [45, 52, "ROUTE"], [53, 62, "FREQUENCY"], [63, 74, "DURATION"]]}
+{"text": "Give two tablets of Albuterol 500 mg cream topically twice daily for 14 days.", "entities": [[5, 16, "DOSAGE"], [20, 29, "DRUG"], [30, 36, "STRENGTH"], [37, 42, "FORM"], [43, 52, "ROUTE"], [53, 64, "FREQUENCY"], [65, 76, "DURATION"]]}
+{"text": "Emergency contact is Mei-Ling Chen, residing at 19 Cedar Lane, Austin, TX 78701, telephone 212-555-0199.", "entities": []}
+{"text": "Current medications: Gabapentin 100 mg three times daily; Losartan 50 mg once daily.", "entities": [[21, 31, "DRUG"], [32, 38, "STRENGTH"], [39, 56, "FREQUENCY"], [58, 66, "DRUG"], [67, 72, "STRENGTH"], [73, 83, "FREQUENCY"]]}
+{"text": "The pharmacy information was updated in the record.", "entities": []}
+{"text": "Give two capsules of Losartan 2.5 mg injection by mouth every morning until follow-up.", "entities": [[5, 17, "DOSAGE"], [21, 29, "DRUG"], [30, 36, "STRENGTH"], [37, 46, "FORM"], [47, 55, "ROUTE"], [56, 69, "FREQUENCY"], [70, 85, "DURATION"]]}
+{"text": "Current treatment includes Apixaban 50 mg once weekly.", "entities": [[27, 35, "DRUG"], [36, 41, "STRENGTH"], [42, 53, "FREQUENCY"]]}
+{"text": "George Patel lives at 812 Maple Avenue, Boston, MA 02118 and can be reached at 212-555-0199. The medication plan is Lisinopril 100 mg once weekly.", "entities": [[116, 126, "DRUG"], [127, 133, "STRENGTH"], [134, 145, "FREQUENCY"]]}
+{"text": "Emergency contact is Mei-Ling Chen, residing at 19 Cedar Lane, Austin, TX 78701, telephone 716-555-0107.", "entities": []}
+{"text": "Use 10 units of Warfarin 75 mg injection by mouth once weekly until follow-up.", "entities": [[4, 12, "DOSAGE"], [16, 24, "DRUG"], [25, 30, "STRENGTH"], [31, 40, "FORM"], [41, 49, "ROUTE"], [50, 61, "FREQUENCY"], [62, 77, "DURATION"]]}
+{"text": "Give 5 mL of Prednisone 75 mg tablet orally before meals for 5 days.", "entities": [[5, 9, "DOSAGE"], [13, 23, "DRUG"], [24, 29, "STRENGTH"], [30, 36, "FORM"], [37, 43, "ROUTE"], [44, 56, "FREQUENCY"], [57, 67, "DURATION"]]}
+{"text": "Use two capsules of Aspirin 25 mg solution subcutaneously every 8 hours for 10 days.", "entities": [[4, 16, "DOSAGE"], [20, 27, "DRUG"], [28, 33, "STRENGTH"], [34, 42, "FORM"], [43, 57, "ROUTE"], [58, 71, "FREQUENCY"], [72, 83, "DURATION"]]}
+{"text": "A complete medication reconciliation was performed.", "entities": []}
+{"text": "Give two capsules of Atorvastatin 100 mg capsule intravenously with meals for 7 days.", "entities": [[5, 17, "DOSAGE"], [21, 33, "DRUG"], [34, 40, "STRENGTH"], [41, 48, "FORM"], [49, 62, "ROUTE"], [63, 73, "FREQUENCY"], [74, 84, "DURATION"]]}
+{"text": "Noor Al-Sayed confirmed the home address as 901 West Pine Street, Buffalo, NY 14201 and phone number as 716-555-0107.", "entities": []}
+{"text": "Current treatment includes Albuterol 10 mg every morning.", "entities": [[27, 36, "DRUG"], [37, 42, "STRENGTH"], [43, 56, "FREQUENCY"]]}
+{"text": "Caregiver Naomi Okafor called from 212-555-0199 regarding transportation from 901 West Pine Street, Buffalo, NY 14201.", "entities": []}
+{"text": "Apixaban 5 mg by mouth twice daily.", "entities": [[0, 8, "DRUG"], [9, 13, "STRENGTH"], [14, 22, "ROUTE"], [23, 34, "FREQUENCY"]]}
+{"text": "Marcus Bennett lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 617-555-0124. The medication plan is Levothyroxine 250 mg before meals.", "entities": [[115, 128, "DRUG"], [129, 135, "STRENGTH"], [136, 148, "FREQUENCY"]]}
+{"text": "Give two capsules of Levothyroxine 50 mg injection by mouth once weekly until follow-up.", "entities": [[5, 17, "DOSAGE"], [21, 34, "DRUG"], [35, 40, "STRENGTH"], [41, 50, "FORM"], [51, 59, "ROUTE"], [60, 71, "FREQUENCY"], [72, 87, "DURATION"]]}
+{"text": "Continue Albuterol 500 mg once weekly.", "entities": [[9, 18, "DRUG"], [19, 25, "STRENGTH"], [26, 37, "FREQUENCY"]]}
+{"text": "Jonathan Reynolds takes Losartan 50 mg once weekly.", "entities": [[24, 32, "DRUG"], [33, 38, "STRENGTH"], [39, 50, "FREQUENCY"]]}
+{"text": "The patient receives Insulin glargine 100 mg once daily.", "entities": [[21, 37, "DRUG"], [38, 44, "STRENGTH"], [45, 55, "FREQUENCY"]]}
+{"text": "Use 10 mL of Pantoprazole 50 mg inhaler inhaled as needed for 30 days.", "entities": [[4, 9, "DOSAGE"], [13, 25, "DRUG"], [26, 31, "STRENGTH"], [32, 39, "FORM"], [40, 47, "ROUTE"], [48, 57, "FREQUENCY"], [58, 69, "DURATION"]]}
+{"text": "Noor Al-Sayed confirmed the home address as 901 West Pine Street, Buffalo, NY 14201 and phone number as 212-555-0199.", "entities": []}
+{"text": "Emily Reynolds remains on Carvedilol 25 mg once daily.", "entities": [[26, 36, "DRUG"], [37, 42, "STRENGTH"], [43, 53, "FREQUENCY"]]}
+{"text": "Luis Martinez lives at 25 Harbor Road, Stony Brook, NY 11790 and can be reached at 716-555-0107.", "entities": []}
+{"text": "Continue Sertraline 100 mg once daily.", "entities": [[9, 19, "DRUG"], [20, 26, "STRENGTH"], [27, 37, "FREQUENCY"]]}
+{"text": "Give two capsules of Warfarin 10 mg capsule intravenously nightly for 7 days.", "entities": [[5, 17, "DOSAGE"], [21, 29, "DRUG"], [30, 35, "STRENGTH"], [36, 43, "FORM"], [44, 57, "ROUTE"], [58, 65, "FREQUENCY"], [66, 76, "DURATION"]]}
+{"text": "Give 1 puff of Donepezil 250 mg solution subcutaneously once daily for 10 days.", "entities": [[5, 11, "DOSAGE"], [15, 24, "DRUG"], [25, 31, "STRENGTH"], [32, 40, "FORM"], [41, 55, "ROUTE"], [56, 66, "FREQUENCY"], [67, 78, "DURATION"]]}
+{"text": "Luis Martinez lives at 19 Cedar Lane, Austin, TX 78701 and can be reached at 617-555-0124. The medication plan is Hydrochlorothiazide 20 mg every evening.", "entities": [[114, 133, "DRUG"], [134, 139, "STRENGTH"], [140, 153, "FREQUENCY"]]}
+{"text": "Luis Martinez lives at 440 East 72nd Street, Apt 9A, New York, NY 10021 and can be reached at 646-555-0109. The medication plan is Entresto 50 mg every 12 hours.", "entities": [[131, 139, "DRUG"], [140, 145, "STRENGTH"], [146, 160, "FREQUENCY"]]}
+{"text": "Continue Prednisone 2.5 mg once daily.", "entities": [[9, 19, "DRUG"], [20, 26, "STRENGTH"], [27, 37, "FREQUENCY"]]}
+{"text": "Continue Acetaminophen 50 mg every morning.", "entities": [[9, 22, "DRUG"], [23, 28, "STRENGTH"], [29, 42, "FREQUENCY"]]}
+{"text": "The patient forgot to bring the medication list.", "entities": []}
