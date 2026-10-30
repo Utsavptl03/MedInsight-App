@@ -1,0 +1,84 @@
+file,label,value
+case_01_simple_narrative.pdf,DRUG,Lisinopril
+case_01_simple_narrative.pdf,STRENGTH,20 mg
+case_01_simple_narrative.pdf,FREQUENCY,every morning
+case_02_multiple_meds.pdf,DRUG,Metformin
+case_02_multiple_meds.pdf,DRUG,Amlodipine
+case_02_multiple_meds.pdf,STRENGTH,500 mg
+case_02_multiple_meds.pdf,STRENGTH,5 mg
+case_02_multiple_meds.pdf,FREQUENCY,twice daily
+case_02_multiple_meds.pdf,FREQUENCY,once daily
+case_03_route_form.pdf,DRUG,Albuterol
+case_03_route_form.pdf,FORM,inhaler
+case_03_route_form.pdf,DOSAGE,2 puffs
+case_03_route_form.pdf,ROUTE,inhaled
+case_03_route_form.pdf,FREQUENCY,as needed
+case_04_duration.pdf,DRUG,Prednisone
+case_04_duration.pdf,STRENGTH,20 mg
+case_04_duration.pdf,FREQUENCY,once daily
+case_04_duration.pdf,DURATION,for 5 days
+case_05_insulin.pdf,DRUG,Insulin glargine
+case_05_insulin.pdf,DOSAGE,18 units
+case_05_insulin.pdf,ROUTE,subcutaneously
+case_05_insulin.pdf,FREQUENCY,nightly
+case_06_brand_names.pdf,DRUG,Eliquis
+case_06_brand_names.pdf,DRUG,Jardiance
+case_06_brand_names.pdf,STRENGTH,5 mg
+case_06_brand_names.pdf,STRENGTH,10 mg
+case_06_brand_names.pdf,FREQUENCY,twice daily
+case_06_brand_names.pdf,FREQUENCY,every morning
+case_07_no_med_negative.pdf,NEGATIVE,
+case_08_medication_word_negative.pdf,NEGATIVE,
+case_09_abbreviation_style.pdf,DRUG,Omeprazole
+case_09_abbreviation_style.pdf,STRENGTH,40 mg
+case_09_abbreviation_style.pdf,ROUTE,orally
+case_09_abbreviation_style.pdf,FREQUENCY,once daily
+case_10_with_food.pdf,DRUG,Metformin
+case_10_with_food.pdf,STRENGTH,500 mg
+case_10_with_food.pdf,FREQUENCY,with meals
+case_11_free_text_long.pdf,DRUG,Losartan
+case_11_free_text_long.pdf,STRENGTH,50 mg
+case_11_free_text_long.pdf,FREQUENCY,every evening
+case_12_two_sentences_two_meds.pdf,DRUG,Gabapentin
+case_12_two_sentences_two_meds.pdf,DRUG,Pantoprazole
+case_12_two_sentences_two_meds.pdf,STRENGTH,100 mg
+case_12_two_sentences_two_meds.pdf,STRENGTH,40 mg
+case_12_two_sentences_two_meds.pdf,FREQUENCY,three times daily
+case_12_two_sentences_two_meds.pdf,FREQUENCY,every morning
+case_13_antibiotic_course.pdf,DRUG,Amoxicillin
+case_13_antibiotic_course.pdf,STRENGTH,500 mg
+case_13_antibiotic_course.pdf,FREQUENCY,three times daily
+case_13_antibiotic_course.pdf,DURATION,for 7 days
+case_14_topical.pdf,DRUG,Hydrocortisone
+case_14_topical.pdf,FORM,cream
+case_14_topical.pdf,ROUTE,topically
+case_14_topical.pdf,FREQUENCY,twice daily
+case_14_topical.pdf,DURATION,for 10 days
+case_15_injection.pdf,DRUG,Ceftriaxone
+case_15_injection.pdf,STRENGTH,1 g
+case_15_injection.pdf,FORM,injection
+case_15_injection.pdf,ROUTE,intravenously
+case_15_injection.pdf,FREQUENCY,once daily
+case_15_injection.pdf,DURATION,for 5 days
+case_16_table_medications.pdf,DRUG,Warfarin
+case_16_table_medications.pdf,DRUG,Furosemide
+case_16_table_medications.pdf,STRENGTH,5 mg
+case_16_table_medications.pdf,STRENGTH,20 mg
+case_16_table_medications.pdf,FREQUENCY,once daily
+case_16_table_medications.pdf,FREQUENCY,every morning
+case_17_header_footer.pdf,DRUG,Rosuvastatin
+case_17_header_footer.pdf,STRENGTH,10 mg
+case_17_header_footer.pdf,FREQUENCY,nightly
+case_18_punctuation.pdf,DRUG,Clopidogrel
+case_18_punctuation.pdf,STRENGTH,75 mg
+case_18_punctuation.pdf,FREQUENCY,once daily
+case_19_list_style.pdf,DRUG,Levothyroxine
+case_19_list_style.pdf,DRUG,Sertraline
+case_19_list_style.pdf,DRUG,Aspirin
+case_19_list_style.pdf,STRENGTH,75 mcg
+case_19_list_style.pdf,STRENGTH,50 mg
+case_19_list_style.pdf,STRENGTH,81 mg
+case_19_list_style.pdf,FREQUENCY,every morning
+case_19_list_style.pdf,FREQUENCY,once daily
+case_19_list_style.pdf,FREQUENCY,once daily
+case_20_hard_negative_medical.pdf,NEGATIVE,

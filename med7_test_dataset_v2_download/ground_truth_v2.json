@@ -1,0 +1,428 @@
+{
+  "description": "Second synthetic evaluation set for a fine-tuned Med7 medication-only redaction pipeline.",
+  "evaluation_policy": {
+    "medication_info_to_preserve": "Each listed medication entity should remain visible after redaction.",
+    "everything_else": "All non-medication text should be redacted by a medication-only pipeline.",
+    "negative_cases": "Cases with an empty preserve list should retain no text."
+  },
+  "case_count": 20,
+  "cases": [
+    {
+      "file": "case_01_simple_narrative.pdf",
+      "medication_info_to_preserve": [
+        "Lisinopril",
+        "20 mg",
+        "every morning"
+      ],
+      "labels": {
+        "DRUG": [
+          "Lisinopril"
+        ],
+        "STRENGTH": [
+          "20 mg"
+        ],
+        "FREQUENCY": [
+          "every morning"
+        ]
+      }
+    },
+    {
+      "file": "case_02_multiple_meds.pdf",
+      "medication_info_to_preserve": [
+        "Metformin",
+        "500 mg",
+        "twice daily",
+        "Amlodipine",
+        "5 mg",
+        "once daily"
+      ],
+      "labels": {
+        "DRUG": [
+          "Metformin",
+          "Amlodipine"
+        ],
+        "STRENGTH": [
+          "500 mg",
+          "5 mg"
+        ],
+        "FREQUENCY": [
+          "twice daily",
+          "once daily"
+        ]
+      }
+    },
+    {
+      "file": "case_03_route_form.pdf",
+      "medication_info_to_preserve": [
+        "Albuterol",
+        "inhaler",
+        "2 puffs",
+        "inhaled",
+        "as needed"
+      ],
+      "labels": {
+        "DRUG": [
+          "Albuterol"
+        ],
+        "FORM": [
+          "inhaler"
+        ],
+        "DOSAGE": [
+          "2 puffs"
+        ],
+        "ROUTE": [
+          "inhaled"
+        ],
+        "FREQUENCY": [
+          "as needed"
+        ]
+      }
+    },
+    {
+      "file": "case_04_duration.pdf",
+      "medication_info_to_preserve": [
+        "Prednisone",
+        "20 mg",
+        "once daily",
+        "for 5 days"
+      ],
+      "labels": {
+        "DRUG": [
+          "Prednisone"
+        ],
+        "STRENGTH": [
+          "20 mg"
+        ],
+        "FREQUENCY": [
+          "once daily"
+        ],
+        "DURATION": [
+          "for 5 days"
+        ]
+      }
+    },
+    {
+      "file": "case_05_insulin.pdf",
+      "medication_info_to_preserve": [
+        "Insulin glargine",
+        "18 units",
+        "subcutaneously",
+        "nightly"
+      ],
+      "labels": {
+        "DRUG": [
+          "Insulin glargine"
+        ],
+        "DOSAGE": [
+          "18 units"
+        ],
+        "ROUTE": [
+          "subcutaneously"
+        ],
+        "FREQUENCY": [
+          "nightly"
+        ]
+      }
+    },
+    {
+      "file": "case_06_brand_names.pdf",
+      "medication_info_to_preserve": [
+        "Eliquis",
+        "5 mg",
+        "twice daily",
+        "Jardiance",
+        "10 mg",
+        "every morning"
+      ],
+      "labels": {
+        "DRUG": [
+          "Eliquis",
+          "Jardiance"
+        ],
+        "STRENGTH": [
+          "5 mg",
+          "10 mg"
+        ],
+        "FREQUENCY": [
+          "twice daily",
+          "every morning"
+        ]
+      }
+    },
+    {
+      "file": "case_07_no_med_negative.pdf",
+      "medication_info_to_preserve": [],
+      "labels": {}
+    },
+    {
+      "file": "case_08_medication_word_negative.pdf",
+      "medication_info_to_preserve": [],
+      "labels": {}
+    },
+    {
+      "file": "case_09_abbreviation_style.pdf",
+      "medication_info_to_preserve": [
+        "Omeprazole",
+        "40 mg",
+        "orally",
+        "once daily"
+      ],
+      "labels": {
+        "DRUG": [
+          "Omeprazole"
+        ],
+        "STRENGTH": [
+          "40 mg"
+        ],
+        "ROUTE": [
+          "orally"
+        ],
+        "FREQUENCY": [
+          "once daily"
+        ]
+      }
+    },
+    {
+      "file": "case_10_with_food.pdf",
+      "medication_info_to_preserve": [
+        "Metformin",
+        "500 mg",
+        "with meals"
+      ],
+      "labels": {
+        "DRUG": [
+          "Metformin"
+        ],
+        "STRENGTH": [
+          "500 mg"
+        ],
+        "FREQUENCY": [
+          "with meals"
+        ]
+      }
+    },
+    {
+      "file": "case_11_free_text_long.pdf",
+      "medication_info_to_preserve": [
+        "Losartan",
+        "50 mg",
+        "every evening"
+      ],
+      "labels": {
+        "DRUG": [
+          "Losartan"
+        ],
+        "STRENGTH": [
+          "50 mg"
+        ],
+        "FREQUENCY": [
+          "every evening"
+        ]
+      }
+    },
+    {
+      "file": "case_12_two_sentences_two_meds.pdf",
+      "medication_info_to_preserve": [
+        "Gabapentin",
+        "100 mg",
+        "three times daily",
+        "Pantoprazole",
+        "40 mg",
+        "every morning"
+      ],
+      "labels": {
+        "DRUG": [
+          "Gabapentin",
+          "Pantoprazole"
+        ],
+        "STRENGTH": [
+          "100 mg",
+          "40 mg"
+        ],
+        "FREQUENCY": [
+          "three times daily",
+          "every morning"
+        ]
+      }
+    },
+    {
+      "file": "case_13_antibiotic_course.pdf",
+      "medication_info_to_preserve": [
+        "Amoxicillin",
+        "500 mg",
+        "three times daily",
+        "for 7 days"
+      ],
+      "labels": {
+        "DRUG": [
+          "Amoxicillin"
+        ],
+        "STRENGTH": [
+          "500 mg"
+        ],
+        "FREQUENCY": [
+          "three times daily"
+        ],
+        "DURATION": [
+          "for 7 days"
+        ]
+      }
+    },
+    {
+      "file": "case_14_topical.pdf",
+      "medication_info_to_preserve": [
+        "Hydrocortisone",
+        "cream",
+        "topically",
+        "twice daily",
+        "for 10 days"
+      ],
+      "labels": {
+        "DRUG": [
+          "Hydrocortisone"
+        ],
+        "FORM": [
+          "cream"
+        ],
+        "ROUTE": [
+          "topically"
+        ],
+        "FREQUENCY": [
+          "twice daily"
+        ],
+        "DURATION": [
+          "for 10 days"
+        ]
+      }
+    },
+    {
+      "file": "case_15_injection.pdf",
+      "medication_info_to_preserve": [
+        "Ceftriaxone",
+        "1 g",
+        "injection",
+        "intravenously",
+        "once daily",
+        "for 5 days"
+      ],
+      "labels": {
+        "DRUG": [
+          "Ceftriaxone"
+        ],
+        "STRENGTH": [
+          "1 g"
+        ],
+        "FORM": [
+          "injection"
+        ],
+        "ROUTE": [
+          "intravenously"
+        ],
+        "FREQUENCY": [
+          "once daily"
+        ],
+        "DURATION": [
+          "for 5 days"
+        ]
+      }
+    },
+    {
+      "file": "case_16_table_medications.pdf",
+      "medication_info_to_preserve": [
+        "Warfarin",
+        "5 mg",
+        "once daily",
+        "Furosemide",
+        "20 mg",
+        "every morning"
+      ],
+      "labels": {
+        "DRUG": [
+          "Warfarin",
+          "Furosemide"
+        ],
+        "STRENGTH": [
+          "5 mg",
+          "20 mg"
+        ],
+        "FREQUENCY": [
+          "once daily",
+          "every morning"
+        ]
+      }
+    },
+    {
+      "file": "case_17_header_footer.pdf",
+      "medication_info_to_preserve": [
+        "Rosuvastatin",
+        "10 mg",
+        "nightly"
+      ],
+      "labels": {
+        "DRUG": [
+          "Rosuvastatin"
+        ],
+        "STRENGTH": [
+          "10 mg"
+        ],
+        "FREQUENCY": [
+          "nightly"
+        ]
+      }
+    },
+    {
+      "file": "case_18_punctuation.pdf",
+      "medication_info_to_preserve": [
+        "Clopidogrel",
+        "75 mg",
+        "once daily"
+      ],
+      "labels": {
+        "DRUG": [
+          "Clopidogrel"
+        ],
+        "STRENGTH": [
+          "75 mg"
+        ],
+        "FREQUENCY": [
+          "once daily"
+        ]
+      }
+    },
+    {
+      "file": "case_19_list_style.pdf",
+      "medication_info_to_preserve": [
+        "Levothyroxine",
+        "75 mcg",
+        "every morning",
+        "Sertraline",
+        "50 mg",
+        "once daily",
+        "Aspirin",
+        "81 mg"
+      ],
+      "labels": {
+        "DRUG": [
+          "Levothyroxine",
+          "Sertraline",
+          "Aspirin"
+        ],
+        "STRENGTH": [
+          "75 mcg",
+          "50 mg",
+          "81 mg"
+        ],
+        "FREQUENCY": [
+          "every morning",
+          "once daily",
+          "once daily"
+        ]
+      }
+    },
+    {
+      "file": "case_20_hard_negative_medical.pdf",
+      "medication_info_to_preserve": [],
+      "labels": {}
+    }
+  ]
+}
