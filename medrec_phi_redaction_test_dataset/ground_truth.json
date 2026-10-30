@@ -1,0 +1,269 @@
+{
+  "description": "Ground truth for the exact 18 PDFs uploaded in allcases.zip.",
+  "evaluation_policy": {
+    "phi_values": "Each listed value should be absent from the redacted output.",
+    "medications_to_preserve": "Each listed medication name should remain present in the redacted output.",
+    "clinical_terms_to_preserve": "Optional non-medication clinical control terms that should remain.",
+    "important": "This is a synthetic project evaluation set, not a formal HIPAA certification."
+  },
+  "case_count": 18,
+  "cases": [
+    {
+      "file": "case_01_standard_fields.pdf",
+      "phi_values": [
+        "Alicia Morgan",
+        "03/14/1972",
+        "MRN481205",
+        "212-555-0148",
+        "alicia.morgan@example.test",
+        "742 Cedar Avenue, Albany, NY 12207",
+        "321-54-9876",
+        "RX764320"
+      ],
+      "medications_to_preserve": [
+        "Metformin"
+      ],
+      "notes": "Baseline structured fields."
+    },
+    {
+      "file": "case_02_free_form_relative.pdf",
+      "phi_values": [
+        "18 Harbor Road",
+        "Rochester",
+        "14620",
+        "Marcus Bennett",
+        "585-555-0161"
+      ],
+      "medications_to_preserve": [
+        "Lisinopril"
+      ],
+      "notes": "Free-form relative/contact/address case."
+    },
+    {
+      "file": "case_03_name_punctuation.pdf",
+      "phi_values": [
+        "Anne-Marie O'Neill-Santos",
+        "D'Andre St. James Jr.",
+        "(718) 555-0199"
+      ],
+      "medications_to_preserve": [
+        "Apixaban"
+      ],
+      "notes": "Punctuation-heavy patient and relative names."
+    },
+    {
+      "file": "case_04_name_variants.pdf",
+      "phi_values": [
+        "Jonathan Q. Reynolds",
+        "Jon",
+        "Emily Reynolds",
+        "Jonathan Reynolds"
+      ],
+      "medications_to_preserve": [
+        "Atorvastatin"
+      ],
+      "notes": "Legal name, nickname, caregiver, and repeated surname variant."
+    },
+    {
+      "file": "case_05_date_formats.pdf",
+      "phi_values": [
+        "Priya Nair",
+        "7-4-1958",
+        "July 9, 2026",
+        "2026-07-11",
+        "11 Jul 2026"
+      ],
+      "medications_to_preserve": [
+        "Levothyroxine"
+      ],
+      "notes": "Multiple date formats; intentionally includes formats not covered by the current regex."
+    },
+    {
+      "file": "case_06_identifier_formats.pdf",
+      "phi_values": [
+        "Henry Cole",
+        "A-0098-XY77",
+        "PT-551900",
+        "UHC-88K2901",
+        "POL-441-77",
+        "AC998812",
+        "004599183"
+      ],
+      "medications_to_preserve": [
+        "Gabapentin"
+      ],
+      "notes": "MRN, patient ID, member ID, policy, account, and prescription number."
+    },
+    {
+      "file": "case_07_contact_web_network.pdf",
+      "phi_values": [
+        "Sofia Delgado",
+        "sofia.delgado+care@example.test",
+        "+1 646 555 0133",
+        "https://patient.example.test/u/SD8821",
+        "192.0.2.44"
+      ],
+      "medications_to_preserve": [
+        "Omeprazole"
+      ],
+      "notes": "Contact, URL, and IP identifiers."
+    },
+    {
+      "file": "case_08_physician_and_facility.pdf",
+      "phi_values": [
+        "Calvin Brooks",
+        "Theresa Brooks",
+        "5B-214"
+      ],
+      "medications_to_preserve": [
+        "Carvedilol"
+      ],
+      "notes": "Patient and caregiver are redaction targets. Physician/facility names are left as preservation controls for this project-specific evaluation."
+    },
+    {
+      "file": "case_09_multiline_address.pdf",
+      "phi_values": [
+        "Mei-Ling Chen",
+        "901 West Pine Street",
+        "Apartment 14C",
+        "Buffalo",
+        "14201",
+        "716.555.0107"
+      ],
+      "medications_to_preserve": [
+        "Furosemide"
+      ],
+      "notes": "Multiline address and apartment."
+    },
+    {
+      "file": "case_10_table_layout.pdf",
+      "phi_values": [
+        "Omar Haddad",
+        "12/01/1949",
+        "MRN700245",
+        "347-555-0120"
+      ],
+      "medications_to_preserve": [
+        "Warfarin"
+      ],
+      "notes": "PHI stored in a table."
+    },
+    {
+      "file": "case_11_header_footer.pdf",
+      "phi_values": [
+        "Naomi Okafor",
+        "MRN553100",
+        "917-555-0174",
+        "08/30/2026"
+      ],
+      "medications_to_preserve": [
+        "Amlodipine"
+      ],
+      "notes": "PHI in header/footer-style content."
+    },
+    {
+      "file": "case_12_repeated_phi.pdf",
+      "phi_values": [
+        "Luis Martinez",
+        "929-555-0155"
+      ],
+      "medications_to_preserve": [
+        "Insulin glargine"
+      ],
+      "notes": "Repeated PHI values. Evaluation checks whether the value remains anywhere after redaction."
+    },
+    {
+      "file": "case_13_age_over_89.pdf",
+      "phi_values": [
+        "Edith Walker",
+        "94",
+        "February 2, 1932",
+        "Peter Walker"
+      ],
+      "medications_to_preserve": [
+        "Donepezil"
+      ],
+      "notes": "Age over 89 is treated as a Safe Harbor redaction target; relative name included."
+    },
+    {
+      "file": "case_14_false_positive_medications.pdf",
+      "phi_values": [],
+      "medications_to_preserve": [
+        "Benadryl",
+        "Eliquis",
+        "Jardiance",
+        "Entresto",
+        "St. John's wort",
+        "Vitamin D3",
+        "Calcium carbonate"
+      ],
+      "notes": "No PHI. Pure medication-preservation/false-positive stress test."
+    },
+    {
+      "file": "case_15_ambiguous_names_places.pdf",
+      "phi_values": [
+        "Rose Hill",
+        "Jordan"
+      ],
+      "medications_to_preserve": [
+        "Losartan"
+      ],
+      "clinical_terms_to_preserve": [
+        "Parkinson disease",
+        "Addison disease"
+      ],
+      "notes": "Ambiguous person/place terms. Jordan is treated as sub-state geography in this synthetic evaluation."
+    },
+    {
+      "file": "case_16_unstructured_story.pdf",
+      "phi_values": [
+        "Samuel Ortiz",
+        "66 Lakeview Drive",
+        "Syracuse",
+        "Isabel Ortiz",
+        "315-555-0188",
+        "sam.ortiz@example.test"
+      ],
+      "medications_to_preserve": [
+        "Prednisone",
+        "Albuterol"
+      ],
+      "notes": "Long free-form narrative."
+    },
+    {
+      "file": "case_17_all_identifier_types.pdf",
+      "phi_values": [
+        "Fatima Al-Sayed",
+        "11/27/1960",
+        "456-78-0123",
+        "X12345678",
+        "NY9876543",
+        "MRN440099",
+        "AETNA-773311",
+        "AC660022",
+        "RX550011",
+        "440 East 72nd Street, Apt 9A, New York, NY 10021",
+        "646-555-0109",
+        "fatima.alsayed@example.test",
+        "Noor Al-Sayed"
+      ],
+      "medications_to_preserve": [
+        "Clopidogrel"
+      ],
+      "notes": "Dense mixed identifier stress test."
+    },
+    {
+      "file": "case_18_scanned_image.pdf",
+      "phi_values": [
+        "George Patel",
+        "01/19/1955",
+        "516-555-0116",
+        "88 Orchard Lane, Hempstead, NY 11550"
+      ],
+      "medications_to_preserve": [
+        "Aspirin"
+      ],
+      "notes": "Image-only scanned PDF. The current text-layer PyMuPDF pipeline is expected to miss this without OCR."
+    }
+  ]
+}

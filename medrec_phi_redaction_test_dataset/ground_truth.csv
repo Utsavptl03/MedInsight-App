@@ -1,0 +1,19 @@
+file,phi_values,medications_to_preserve,clinical_terms_to_preserve,notes
+case_01_standard_fields.pdf,"Alicia Morgan | 03/14/1972 | MRN481205 | 212-555-0148 | alicia.morgan@example.test | 742 Cedar Avenue, Albany, NY 12207 | 321-54-9876 | RX764320",Metformin,,Baseline structured fields.
+case_02_free_form_relative.pdf,18 Harbor Road | Rochester | 14620 | Marcus Bennett | 585-555-0161,Lisinopril,,Free-form relative/contact/address case.
+case_03_name_punctuation.pdf,Anne-Marie O'Neill-Santos | D'Andre St. James Jr. | (718) 555-0199,Apixaban,,Punctuation-heavy patient and relative names.
+case_04_name_variants.pdf,Jonathan Q. Reynolds | Jon | Emily Reynolds | Jonathan Reynolds,Atorvastatin,,"Legal name, nickname, caregiver, and repeated surname variant."
+case_05_date_formats.pdf,"Priya Nair | 7-4-1958 | July 9, 2026 | 2026-07-11 | 11 Jul 2026",Levothyroxine,,Multiple date formats; intentionally includes formats not covered by the current regex.
+case_06_identifier_formats.pdf,Henry Cole | A-0098-XY77 | PT-551900 | UHC-88K2901 | POL-441-77 | AC998812 | 004599183,Gabapentin,,"MRN, patient ID, member ID, policy, account, and prescription number."
+case_07_contact_web_network.pdf,Sofia Delgado | sofia.delgado+care@example.test | +1 646 555 0133 | https://patient.example.test/u/SD8821 | 192.0.2.44,Omeprazole,,"Contact, URL, and IP identifiers."
+case_08_physician_and_facility.pdf,Calvin Brooks | Theresa Brooks | 5B-214,Carvedilol,,Patient and caregiver are redaction targets. Physician/facility names are left as preservation controls for this project-specific evaluation.
+case_09_multiline_address.pdf,Mei-Ling Chen | 901 West Pine Street | Apartment 14C | Buffalo | 14201 | 716.555.0107,Furosemide,,Multiline address and apartment.
+case_10_table_layout.pdf,Omar Haddad | 12/01/1949 | MRN700245 | 347-555-0120,Warfarin,,PHI stored in a table.
+case_11_header_footer.pdf,Naomi Okafor | MRN553100 | 917-555-0174 | 08/30/2026,Amlodipine,,PHI in header/footer-style content.
+case_12_repeated_phi.pdf,Luis Martinez | 929-555-0155,Insulin glargine,,Repeated PHI values. Evaluation checks whether the value remains anywhere after redaction.
+case_13_age_over_89.pdf,"Edith Walker | 94 | February 2, 1932 | Peter Walker",Donepezil,,Age over 89 is treated as a Safe Harbor redaction target; relative name included.
+case_14_false_positive_medications.pdf,,Benadryl | Eliquis | Jardiance | Entresto | St. John's wort | Vitamin D3 | Calcium carbonate,,No PHI. Pure medication-preservation/false-positive stress test.
+case_15_ambiguous_names_places.pdf,Rose Hill | Jordan,Losartan,Parkinson disease | Addison disease,Ambiguous person/place terms. Jordan is treated as sub-state geography in this synthetic evaluation.
+case_16_unstructured_story.pdf,Samuel Ortiz | 66 Lakeview Drive | Syracuse | Isabel Ortiz | 315-555-0188 | sam.ortiz@example.test,Prednisone | Albuterol,,Long free-form narrative.
+case_17_all_identifier_types.pdf,"Fatima Al-Sayed | 11/27/1960 | 456-78-0123 | X12345678 | NY9876543 | MRN440099 | AETNA-773311 | AC660022 | RX550011 | 440 East 72nd Street, Apt 9A, New York, NY 10021 | 646-555-0109 | fatima.alsayed@example.test | Noor Al-Sayed",Clopidogrel,,Dense mixed identifier stress test.
+case_18_scanned_image.pdf,"George Patel | 01/19/1955 | 516-555-0116 | 88 Orchard Lane, Hempstead, NY 11550",Aspirin,,Image-only scanned PDF. The current text-layer PyMuPDF pipeline is expected to miss this without OCR.
